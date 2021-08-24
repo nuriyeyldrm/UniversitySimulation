@@ -2,9 +2,11 @@ package uni.sim.model;
 
 import lombok.Getter;
 import lombok.Setter;
+import lombok.ToString;
 
 @Setter
 @Getter
+@ToString
 public class Person {
 
     private String name;
@@ -24,8 +26,7 @@ public class Person {
     }
 
     public void printFullName(String name, String surname){
-        System.out.println(name+ " " + surname);
+        System.out.printf("%-11s %-15s", name, surname);
     }
-
 
 }

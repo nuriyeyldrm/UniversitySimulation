@@ -2,9 +2,11 @@ package uni.sim.model;
 
 import lombok.Getter;
 import lombok.Setter;
+import lombok.ToString;
 
 @Setter
 @Getter
+@ToString
 public class Student extends Person{
 
     private Integer midtermScore;
@@ -20,8 +22,8 @@ public class Student extends Person{
         this.finalScore = finalScore;
     }
 
-    public Integer averageScore(Integer midtermScore, Integer midtermScoreRatio, Integer finalScore,
-                                Integer finalScoreRatio){
+    public Integer averageScore(Integer midtermScore, Integer midtermScoreRatio,
+                                Integer finalScore, Integer finalScoreRatio){
         return (midtermScore * midtermScoreRatio / 100 + finalScore * finalScoreRatio / 100);
     }
 
@@ -30,6 +32,9 @@ public class Student extends Person{
     }
 
     public void work(){
-        System.out.println("Studying");
+        System.out.print("Studying");
     }
+
+
+
 }

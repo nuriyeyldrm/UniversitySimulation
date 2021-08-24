@@ -2,9 +2,11 @@ package uni.sim.model;
 
 import lombok.Getter;
 import lombok.Setter;
+import lombok.ToString;
 
 @Setter
 @Getter
+@ToString
 public class Teacher extends Person{
 
     private String fieldOfStudy;
@@ -19,6 +21,6 @@ public class Teacher extends Person{
     }
 
     public void work(){
-        System.out.println("Teaching");
+        System.out.print("Teaching");
     }
 }
