@@ -1,0 +1,25 @@
+Name, Surname, Role, Department Name, University Name, Midterm Score, Final Score, Field of Study
+Sema, Oztas, Student, Computer Engineering, Istanbul Technical University, 90, 85, Deep Learning
+Tarik, Kaya, Student, Computer Engineering, Istanbul Technical University, 70, 100, Deep Learning
+Nazli, Demir, Student, Computer Engineering, Istanbul Technical University, 50, 30, Deep Learning
+Can, Bozkus, Student, Computer Engineering, Istanbul Technical University, 45, 50, Deep Learning
+Mehmet, Yildiz, Student, Computer Engineering, Istanbul Technical University, 80, 75, Deep Learning
+Deniz, Zeki, Teacher, Computer Engineering, Istanbul Technical University, , , Deep Learning
+Asli, Yilmaz, Student, Electrical and Electronics Engineering, Istanbul Technical University, 45, 60, Digital Electronics
+Zehra, Tan, Student, Electrical and Electronics Engineering, Istanbul Technical University, 88, 79, Digital Electronics
+Rifat, Kara, Student, Electrical and Electronics Engineering, Istanbul Technical University, 30, 42, Digital Electronics
+Mustafa, Kaynas, Student, Electrical and Electronics Engineering, Istanbul Technical University, 92, 86, Digital Electronics
+Faruk, Alper, Student, Electrical and Electronics Engineering, Istanbul Technical University, 80, 100, Digital Electronics
+Mesut, Dogan, Teacher, Electrical and Electronics Engineering, Istanbul Technical University, , , Digital Electronics
+Sude, Mus, Student, Computer Engineering, Middle East Technical University, 65, 42, Image Processing
+Melih, Mert, Student, Computer Engineering, Middle East Technical University, 100, 98, Image Processing
+Amine, Karsu, Student, Computer Engineering, Middle East Technical University, 100, 100, Image Processing
+Mete, Demir, Student, Computer Engineering, Middle East Technical University, 45, 38, Image Processing
+Kuzey, Yildiz, Student, Computer Engineering, Middle East Technical University, 80, 93, Image Processing
+Meliha, Tepe, Teacher, Computer Engineering, Middle East Technical University, , , Image Processing
+Sena, Didar, Student, Electrical and Electronics Engineering, Middle East Technical University, 45, 50, Telecommunication
+Zeliha, Yildirim, Student, Electrical and Electronics Engineering, Middle East Technical University, 88, 99, Telecommunication
+Ozan, Tuna, Student, Electrical and Electronics Engineering, Middle East Technical University, 30, 48, Telecommunication
+Musa, Odun, Student, Electrical and Electronics Engineering, Middle East Technical University, 100, 79, Telecommunication
+Fatih, Ulu, Student, Electrical and Electronics Engineering, Middle East Technical University, 87, 100, Telecommunication
+Ferdi, Akay, Teacher, Electrical and Electronics Engineering, Middle East Technical University, , , Telecommunication
